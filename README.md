@@ -1,6 +1,8 @@
 # Linux-GUI-Packages-Backup-Tool
 <b>A little GUI made in bash + zenity, to bakup packages</b>
 
+This script ignores missing packages (if you got a newer version of your distributions for example), so some packages can be missing in the end.
+
 If zenity isn't installed you can do :
 
 
