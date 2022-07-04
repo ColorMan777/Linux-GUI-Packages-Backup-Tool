@@ -15,6 +15,6 @@ You can read more about zenity here : https://doc.ubuntu-fr.org/zenity
 <b>This script ignores missing packages (if you got a newer version of your distributions for example), so some packages can be missing in the end.</b>
 Launch the script within a terminal to see the debug outpout.
 
-<i>Dependencies : zenity, bash</i>
+<i>Dependencies : zenity, bash, echo, grep, dpkg, awk, xargs</i>
 
 Licence : GNU General Public License 3.0
