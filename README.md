@@ -1,2 +1,15 @@
 # Linux-GUI-Packages-Backup-Tool
-A little GUI made in bash + zenity, to bakup packages
+<b>A little GUI made in bash + zenity, to bakup packages</b>
+
+If zenity isn't installed you can do :
+
+
+<b>sudo apt install zenity</b>
+
+
+(Note that this command will only work for Linux distributions that use APT, like Debian, Ubuntu, PopOS!, ...)
+You can read more about zenity here : https://doc.ubuntu-fr.org/zenity
+
+<i>Dependencies : zenity, bash</i>
+
+Licence : GNU General Public License 3.0
